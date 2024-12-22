@@ -1,0 +1,7 @@
+/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build/CMakeFiles/wave_solver.dir
+/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build/CMakeFiles/edit_cache.dir
+/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build/CMakeFiles/list_install_components.dir
+/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build/CMakeFiles/install.dir
+/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build/CMakeFiles/install/local.dir
+/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build/CMakeFiles/install/strip.dir

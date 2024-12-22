@@ -1,0 +1,1 @@
+/nix/store/4apajimszc47rxwcpvc3g3rj2icinl71-gcc-wrapper-13.3.0/bin/g++ CMakeFiles/wave_solver.dir/main.cpp.o -o wave_solver

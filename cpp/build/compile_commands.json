@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/build",
+  "command": "/nix/store/4apajimszc47rxwcpvc3g3rj2icinl71-gcc-wrapper-13.3.0/bin/g++   -std=gnu++17 -o CMakeFiles/wave_solver.dir/main.cpp.o -c /home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/main.cpp",
+  "file": "/home/dmitry/Projects/MEPhI/97kaf/Wave_equation/cpp/main.cpp",
+  "output": "CMakeFiles/wave_solver.dir/main.cpp.o"
+}
+]
